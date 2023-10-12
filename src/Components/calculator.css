@@ -1,0 +1,70 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.her1{
+    background-color: orange;
+    color: white;
+    border-radius: 6px;
+    margin: 2px;
+}
+
+.her2{
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+    margin: 2px;
+}
+.her3{
+    background-color:red ;
+    color: white;
+    border-radius: 6px;
+    margin: 2px;
+}
+.her4{
+    background-color: white;
+    border-radius: 6px;
+    margin: 2px;
+}
+.her5{
+    background-color: grey;
+    color: white;
+    border-radius: 6px;
+    margin: 2px;
+}
+.her6{
+    background-color:black;
+    color: white;
+    border-radius: 6px;
+    margin: 2px;
+}
+.her7{
+    background-color: green;
+    color: white;
+    border-radius: 6px;
+    margin: 2px;
+}
+.her8{
+    background-color:brown;
+    color: white;
+    border-radius: 6px;
+    margin: 2px;
+}
+.her9{
+    background-color:purple;
+    color: white;
+    border-radius: 6px;
+    margin: 2px;
+}
+.her10{
+    background-color:yellow;
+    border-radius: 6px;
+
+}
+
+.he{
+    justify-content: center;
+}
+
