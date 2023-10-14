@@ -5,6 +5,8 @@ function App() {
   return (
     <>
     <Calculator title="Change your background color with your own choice"/>
+        <Calculators title="My Calculator"/>
+
     </>
 
   )
